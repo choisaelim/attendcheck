@@ -1,0 +1,5 @@
+idtxt = ''
+pwd = ''
+
+#variable
+url = ''
